@@ -1,0 +1,70 @@
+{
+    "quiz": {
+      "title": "Grade 4 Reading – Deeper Comprehension",
+      "grade_level": "4",
+      "subject": "Reading",
+      "description": "Read passages and answer questions about inference, cause/effect, and main idea.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Passage: The old bridge was shaky and weak. Workers decided to replace it with a strong new one made of steel. Why did they replace the bridge?",
+          "options": ["It was too pretty", "It was unsafe", "It was too short", "It was new"],
+          "correct_answer": "It was unsafe"
+        },
+        {
+          "id": 2,
+          "question": "Passage: Lightning flashed and thunder roared. Everyone ran inside just before the heavy rain started. What caused people to run inside?",
+          "options": ["They were hungry", "The storm was coming", "It was bedtime", "They saw a rainbow"],
+          "correct_answer": "The storm was coming"
+        },
+        {
+          "id": 3,
+          "question": "Passage: Elephants use their trunks to drink, eat, and even greet friends. The trunk is like a long nose and hand combined. What is the main idea?",
+          "options": ["Elephants have big ears", "Trunks are useful", "Elephants live in Africa", "Trunks are short"],
+          "correct_answer": "Trunks are useful"
+        },
+        {
+          "id": 4,
+          "question": "Passage: Anna studied hard for the test. She got every question right and earned a perfect score. How did Anna feel after the test?",
+          "options": ["Disappointed", "Proud", "Confused", "Tired"],
+          "correct_answer": "Proud"
+        },
+        {
+          "id": 5,
+          "question": "Passage: The library was quiet except for pages turning. Kids read books about space and animals. Why was the library quiet?",
+          "options": ["People were sleeping", "It is a rule to be quiet", "No one was there", "It was closed"],
+          "correct_answer": "It is a rule to be quiet"
+        },
+        {
+          "id": 6,
+          "question": "Passage: Pollution in rivers harms fish and plants. People clean up trash to help. What is the effect of cleaning rivers?",
+          "options": ["More trash appears", "Animals get sick", "Water becomes healthier", "Fish leave the river"],
+          "correct_answer": "Water becomes healthier"
+        },
+        {
+          "id": 7,
+          "question": "Passage: The explorer climbed the mountain slowly. At the top, he saw snow-capped peaks all around. What does 'snow-capped' mean?",
+          "options": ["Covered in snow at the top", "Very tall", "Green and grassy", "Full of trees"],
+          "correct_answer": "Covered in snow at the top"
+        },
+        {
+          "id": 8,
+          "question": "Passage: When the power went out, the family used candles and told stories. They had fun even without lights. What is the main idea?",
+          "options": ["Candles are dangerous", "Family time is fun", "Power is always on", "Stories are boring"],
+          "correct_answer": "Family time is fun"
+        },
+        {
+          "id": 9,
+          "question": "Passage: Butterflies start as caterpillars. They eat leaves, then make a chrysalis, and finally emerge with wings. What happens after the chrysalis stage?",
+          "options": ["They eat more leaves", "They become butterflies", "They stay in the chrysalis", "They turn into eggs"],
+          "correct_answer": "They become butterflies"
+        },
+        {
+          "id": 10,
+          "question": "Passage: The team practiced every day after school. Their hard work paid off when they won the championship. Why did they win?",
+          "options": ["They were lucky", "They practiced a lot", "The other team quit", "It rained"],
+          "correct_answer": "They practiced a lot"
+        }
+      ]
+    }
+  }

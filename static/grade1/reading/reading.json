@@ -1,0 +1,70 @@
+{
+    "quiz": {
+      "title": "Grade 1 Reading Fun – Sight Words & Easy Stories",
+      "grade_level": "1",
+      "subject": "Reading",
+      "description": "Practice sight words and understanding very short sentences.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The cat can _____ on the mat.",
+          "options": ["run", "jump", "sit", "fly"],
+          "correct_answer": "sit"
+        },
+        {
+          "id": 2,
+          "question": "Give the ball to _____.",
+          "options": ["me", "you", "him", "she"],
+          "correct_answer": "him"
+        },
+        {
+          "id": 3,
+          "question": "I see a big red _____ in the sky.",
+          "options": ["dog", "ball", "apple", "truck"],
+          "correct_answer": "apple"
+        },
+        {
+          "id": 4,
+          "question": "We go to school every _____ .",
+          "options": ["night", "day", "moon", "star"],
+          "correct_answer": "day"
+        },
+        {
+          "id": 5,
+          "question": "Sam has a blue _____. He likes to play with it.",
+          "options": ["book", "cake", "toy", "shoe"],
+          "correct_answer": "toy"
+        },
+        {
+          "id": 6,
+          "question": "What word means the opposite of big?",
+          "options": ["small", "tall", "fast", "red"],
+          "correct_answer": "small"
+        },
+        {
+          "id": 7,
+          "question": "The dog said \"_____\" when it was happy.",
+          "options": ["meow", "woof", "moo", "quack"],
+          "correct_answer": "woof"
+        },
+        {
+          "id": 8,
+          "question": "I like to read _____ bedtime.",
+          "options": ["at", "on", "in", "up"],
+          "correct_answer": "at"
+        },
+        {
+          "id": 9,
+          "question": "Which word is a color?",
+          "options": ["run", "jump", "blue", "dog"],
+          "correct_answer": "blue"
+        },
+        {
+          "id": 10,
+          "question": "Mom said, \"Come _____ now!\"",
+          "options": ["here", "there", "where", "everywhere"],
+          "correct_answer": "here"
+        }
+      ]
+    }
+  }

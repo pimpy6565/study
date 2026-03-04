@@ -1,0 +1,70 @@
+{
+  "quiz": {
+    "title": "Grade 4 Math Practice",
+    "grade_level": "4",
+    "subject": "Mathematics",
+    "description": "Multiplication, division, fractions, decimals, and geometry.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is 8 × 7?",
+        "options": ["48", "54", "56", "64"],
+        "correct_answer": "56"
+      },
+      {
+        "id": 2,
+        "question": "45 ÷ 9 = ?",
+        "options": ["4", "5", "6", "7"],
+        "correct_answer": "5"
+      },
+      {
+        "id": 3,
+        "question": "What fraction is shaded if 3 out of 8 parts are colored?",
+        "options": ["3/6", "3/8", "5/8", "8/3"],
+        "correct_answer": "3/8"
+      },
+      {
+        "id": 4,
+        "question": "Which decimal is equal to 1/2?",
+        "options": ["0.2", "0.25", "0.5", "0.75"],
+        "correct_answer": "0.5"
+      },
+      {
+        "id": 5,
+        "question": "What is the perimeter of a rectangle that is 6 units long and 4 units wide?",
+        "options": ["10 units", "20 units", "24 units", "28 units"],
+        "correct_answer": "20 units"
+      },
+      {
+        "id": 6,
+        "question": "Round 347 to the nearest hundred.",
+        "options": ["300", "350", "400", "340"],
+        "correct_answer": "300"
+      },
+      {
+        "id": 7,
+        "question": "What is 2.34 + 1.7?",
+        "options": ["3.94", "4.04", "4.14", "3.04"],
+        "correct_answer": "4.04"
+      },
+      {
+        "id": 8,
+        "question": "How many right angles does a square have?",
+        "options": ["2", "3", "4", "0"],
+        "correct_answer": "4"
+      },
+      {
+        "id": 9,
+        "question": "32 × 5 = ?",
+        "options": ["150", "160", "170", "140"],
+        "correct_answer": "160"
+      },
+      {
+        "id": 10,
+        "question": "Which is greater: 0.6 or 0.59?",
+        "options": ["0.6", "0.59", "They are equal", "Cannot tell"],
+        "correct_answer": "0.6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "quiz": {
+      "title": "Grade 2 Reading – Short Stories & Questions",
+      "grade_level": "2",
+      "subject": "Reading",
+      "description": "Read short passages and answer who, what, where, why questions.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The puppy ran to the park. He played with a red ball. Where did the puppy play?",
+          "options": ["home", "park", "school", "store"],
+          "correct_answer": "park"
+        },
+        {
+          "id": 2,
+          "question": "Sara likes apples. She eats one every day after lunch. What does Sara eat?",
+          "options": ["bananas", "apples", "cookies", "grapes"],
+          "correct_answer": "apples"
+        },
+        {
+          "id": 3,
+          "question": "It was a sunny day. The children flew kites high in the sky. Why could the kites fly high?",
+          "options": ["It was raining", "It was windy", "It was night", "It was cold"],
+          "correct_answer": "It was windy"
+        },
+        {
+          "id": 4,
+          "question": "Tom has a new bike. It is blue and fast. What color is Tom's bike?",
+          "options": ["red", "green", "blue", "yellow"],
+          "correct_answer": "blue"
+        },
+        {
+          "id": 5,
+          "question": "The bird built a nest in the tree. She used sticks and leaves. What did the bird use?",
+          "options": ["paper", "sticks and leaves", "cloth", "metal"],
+          "correct_answer": "sticks and leaves"
+        },
+        {
+          "id": 6,
+          "question": "Mom made soup for dinner. It was hot and yummy. When did Mom make soup?",
+          "options": ["breakfast", "lunch", "dinner", "snack"],
+          "correct_answer": "dinner"
+        },
+        {
+          "id": 7,
+          "question": "The cat slept all day. At night she ran around. When does the cat sleep?",
+          "options": ["night", "morning", "all day", "evening"],
+          "correct_answer": "all day"
+        },
+        {
+          "id": 8,
+          "question": "We need water to live. Plants need water too. What do plants need?",
+          "options": ["toys", "water", "books", "cars"],
+          "correct_answer": "water"
+        },
+        {
+          "id": 9,
+          "question": "Ben drew a picture of his dog. He used crayons. What did Ben draw?",
+          "options": ["a cat", "his dog", "a bird", "a fish"],
+          "correct_answer": "his dog"
+        },
+        {
+          "id": 10,
+          "question": "The sun is very hot. We wear hats outside. Why do we wear hats?",
+          "options": ["to stay cool", "to stay warm", "to hide", "to sleep"],
+          "correct_answer": "to stay cool"
+        }
+      ]
+    }
+  }

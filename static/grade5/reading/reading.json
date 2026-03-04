@@ -1,0 +1,70 @@
+{
+    "quiz": {
+      "title": "Grade 5 Reading – Advanced Comprehension",
+      "grade_level": "5",
+      "subject": "Reading",
+      "description": "Read longer passages and answer questions about inference, author's purpose, and summarizing.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Passage: The invention of the telephone changed how people talked over long distances. Before it, messages took days by mail. Alexander Graham Bell's idea helped connect families and friends faster. What was the author's main purpose?",
+          "options": ["To explain how phones are made", "To show how communication improved", "To list phone companies", "To describe Bell's life"],
+          "correct_answer": "To show how communication improved"
+        },
+        {
+          "id": 2,
+          "question": "Passage: In the story, the boy ignored the warning signs and went near the cliff. He slipped but grabbed a branch just in time. What can you infer about the boy?",
+          "options": ["He was careful", "He learned a lesson", "He likes climbing", "He was with friends"],
+          "correct_answer": "He learned a lesson"
+        },
+        {
+          "id": 3,
+          "question": "Passage: Renewable energy like solar and wind is better for the planet than coal because it does not pollute the air. Many countries are switching to clean energy. Summarize the main idea.",
+          "options": ["Coal is cheap", "Renewable energy is cleaner", "Wind is noisy", "Solar panels are expensive"],
+          "correct_answer": "Renewable energy is cleaner"
+        },
+        {
+          "id": 4,
+          "question": "Passage: The character felt nervous before the big game but scored the winning goal. How did the character's feelings change?",
+          "options": ["From happy to sad", "From nervous to proud", "From angry to calm", "From tired to excited"],
+          "correct_answer": "From nervous to proud"
+        },
+        {
+          "id": 5,
+          "question": "Passage: Compare the two animals: Whales live in the ocean and breathe air, while fish use gills. Both swim but in different ways. What is one difference?",
+          "options": ["Whales breathe air", "Both live in water", "Fish have lungs", "Whales are small"],
+          "correct_answer": "Whales breathe air"
+        },
+        {
+          "id": 6,
+          "question": "Passage: The author describes the rainforest as full of colorful birds and tall trees but also warns about deforestation. Why does the author include the warning?",
+          "options": ["To make readers sad", "To explain why we should protect it", "To list animals", "To describe colors"],
+          "correct_answer": "To explain why we should protect it"
+        },
+        {
+          "id": 7,
+          "question": "Passage: After the storm, the town worked together to clean up. Neighbors helped each other rebuild. What is the theme?",
+          "options": ["Storms are fun", "Teamwork helps in hard times", "Rain is wet", "Towns are big"],
+          "correct_answer": "Teamwork helps in hard times"
+        },
+        {
+          "id": 8,
+          "question": "Passage: The explorer faced many dangers but kept a journal of discoveries. The journal helped scientists later. What was the purpose of the journal?",
+          "options": ["To draw pictures", "To record important information", "To write letters home", "To make money"],
+          "correct_answer": "To record important information"
+        },
+        {
+          "id": 9,
+          "question": "Passage: Photosynthesis is how plants make food using sunlight, water, and carbon dioxide. Animals cannot do this. Why can't animals make their own food?",
+          "options": ["They have no leaves", "They eat plants instead", "They live in water", "They sleep at night"],
+          "correct_answer": "They eat plants instead"
+        },
+        {
+          "id": 10,
+          "question": "Passage: The story shows two friends arguing over a game but then apologizing and playing again. What lesson does the author teach?",
+          "options": ["Games are bad", "Friendship is more important than winning", "Arguing is fun", "Friends never fight"],
+          "correct_answer": "Friendship is more important than winning"
+        }
+      ]
+    }
+  }

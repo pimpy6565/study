@@ -1,0 +1,70 @@
+{
+    "quiz": {
+      "title": "Grade 3 Reading Comprehension – Stories & Facts",
+      "grade_level": "3",
+      "subject": "Reading",
+      "description": "Read short passages and answer questions about details, main idea, and why things happen.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Passage: The fox tried to reach the grapes on the tall vine. He jumped and jumped but could not get them. Finally, he walked away saying, \"They were probably sour anyway.\" What does the fox do at the end?",
+          "options": ["Eats the grapes", "Climbs the vine", "Says the grapes are sour", "Asks for help"],
+          "correct_answer": "Says the grapes are sour"
+        },
+        {
+          "id": 2,
+          "question": "Passage: Birds build nests in trees to keep their eggs safe and warm. They use twigs, grass, and feathers. Why do birds use feathers in nests?",
+          "options": ["To make them pretty", "To keep eggs warm", "To hide from cats", "To eat later"],
+          "correct_answer": "To keep eggs warm"
+        },
+        {
+          "id": 3,
+          "question": "Passage: Mia planted seeds in her garden. Every day she watered them and kept weeds away. Soon little plants grew. What is the main idea?",
+          "options": ["Mia likes weeds", "Plants grow with care", "Seeds are small", "Gardens are big"],
+          "correct_answer": "Plants grow with care"
+        },
+        {
+          "id": 4,
+          "question": "Passage: The rain came down hard all morning. By afternoon the sun came out and a rainbow appeared. What happened after the rain stopped?",
+          "options": ["It rained more", "A rainbow appeared", "The sun went away", "It got dark"],
+          "correct_answer": "A rainbow appeared"
+        },
+        {
+          "id": 5,
+          "question": "Passage: Penguins cannot fly but they swim very well. They use their wings like flippers in the cold water. What does 'flippers' mean here?",
+          "options": ["Feet for walking", "Wings for swimming", "Beaks for eating", "Tails for balance"],
+          "correct_answer": "Wings for swimming"
+        },
+        {
+          "id": 6,
+          "question": "Passage: Sam forgot his homework at home. He felt sad but his teacher said he could bring it tomorrow. How does Sam probably feel now?",
+          "options": ["Angry", "Happy", "Relieved", "Hungry"],
+          "correct_answer": "Relieved"
+        },
+        {
+          "id": 7,
+          "question": "Passage: Recycling paper helps save trees. We can turn old paper into new notebooks. Why is recycling good?",
+          "options": ["It makes paper dirty", "It saves trees", "It costs more money", "It makes trash bigger"],
+          "correct_answer": "It saves trees"
+        },
+        {
+          "id": 8,
+          "question": "Passage: The little seed was planted in soft soil. With sun, water, and time it grew into a tall sunflower. What helped the seed grow?",
+          "options": ["Only time", "Sun, water, and soil", "Only sun", "Only water"],
+          "correct_answer": "Sun, water, and soil"
+        },
+        {
+          "id": 9,
+          "question": "Passage: Dogs bark to talk to other dogs or to warn people. A wagging tail usually means they are happy. What does a wagging tail mean?",
+          "options": ["The dog is sad", "The dog is happy", "The dog is hungry", "The dog is sleeping"],
+          "correct_answer": "The dog is happy"
+        },
+        {
+          "id": 10,
+          "question": "Passage: In winter, bears sleep a lot in their dens. They do not eat much during this time. What season do bears sleep a lot?",
+          "options": ["Summer", "Spring", "Winter", "Fall"],
+          "correct_answer": "Winter"
+        }
+      ]
+    }
+  }
